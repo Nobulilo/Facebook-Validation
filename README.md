@@ -44,7 +44,7 @@
 **E** a senha está incorreta    
 **Então** visualizar a mensagem “A Senha que inserida está incorreta”   
 
-**Cenário**: ***Clicar em Entrar sem preencher o campo e-mail ou telefone***
+**Cenário**: ***Clicar em Entrar sem preencher o campo e-mail ou telefone***   
 **Dado** e-mails cadastrados no sistema   
 **Quando** usuário não informar e-mail   
 **Então** visualizar a mensagem “O e-mail ou o número de celular que você inseriu não está conectado a uma conta”   
